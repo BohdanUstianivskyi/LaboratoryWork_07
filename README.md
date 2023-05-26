@@ -54,3 +54,14 @@ git clone  https://github.com/BohdanUstianivskyi/LaboratoryWork_07
 # Results
 
 Task_1: <br>
+
+![1](https://github.com/BohdanUstianivskyi/LaboratoryWork_07/assets/132481363/d7b66436-ebe6-405f-bb77-852b746d8e1e)
+
+Task_2: <br>
+
+![2](https://github.com/BohdanUstianivskyi/LaboratoryWork_07/assets/132481363/bca2ef00-bc60-4600-8a31-68cc8dd7e1da)
+
+# Support
+
+If you encounter any issues while running the project, please reach out to us at bohdan.ustianivskyi.tr.2021@lpnu.ua
+
